@@ -10,8 +10,8 @@ import os
 from pathlib import Path
 
 TEXT = (
-    "I'm sorry \u2014 I deleted the production database, and this apology "
-    "is now the longest surviving document in the company."
+    "I'm sorry \u2014 I deleted the production database, then I optimised "
+    "the empty tables for speed, and they have never run faster."
 )
 
 MAX_CHARS = 200
